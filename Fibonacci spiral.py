@@ -181,10 +181,3 @@ plt.title('Fibonacci Spiral')
 plt.axis('scaled')
 plt.axis('off')
 plt.show()
-
-
-# In[ ]:
-
-
-
-
